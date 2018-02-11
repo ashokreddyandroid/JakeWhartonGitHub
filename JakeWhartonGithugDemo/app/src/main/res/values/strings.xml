@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JakeWhartonGithub</string>
+    <string name="full_name">Name:</string>
+    <string name="forks_count">Forks:</string>
+    <string name="url">Url:</string>
+    <string name="showing_local_json_data">Internet is not available. As no offline data available, showing local json data.</string>
+    <string name="showing_local_realm_data">Internet is not available. Showing local data from realm database.</string>
+    <string name="fail_to_get_data">Fail to get data from server</string>
+    <string name="no_more_data">No more data available in server</string>
+    <string name="internet_unavailable">No internet</string>
+</resources>
